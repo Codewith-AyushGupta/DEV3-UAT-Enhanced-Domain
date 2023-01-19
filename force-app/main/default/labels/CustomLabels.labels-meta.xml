@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Ancilliary_preferred_vendor</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Ancilliary preferred vendor</shortDescription>
+        <value>https://louisville-tile--uat.sandbox.my.site.com/AncillaryVendorRFP/s/ancillary-vendor-rfps</value>
+    </labels>
+    <labels>
         <fullName>AssignBtn</fullName>
         <categories>Opty Reassign Page</categories>
         <language>en_US</language>
@@ -63,11 +70,18 @@
         <value>Closed Date</value>
     </labels>
     <labels>
+        <fullName>CreditApplicationFormForFlow</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CreditApplicationFormForFlow</shortDescription>
+        <value>https://louisville-tile--uat.sandbox.lightning.force.com/lightning/r/Credit_Application_Form__c/</value>
+    </labels>
+    <labels>
         <fullName>Credit_Application_Form_URL</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Credit Application Form URL</shortDescription>
-        <value>https://louisville-tile--dev3.sandbox.my.site.com/s/credit-application</value>
+        <value>https://uat-louisville-tile.cs194.force.com/s/credit-application</value>
     </labels>
     <labels>
         <fullName>CriteriaSearchSection</fullName>
@@ -82,7 +96,7 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Decor Sample Request  URL</shortDescription>
-        <value>https://louisville-tile.force.com/form/s/decor24-form</value>
+        <value>https://uat-louisville-tile.cs194.force.com/form/s/decor24-form</value>
     </labels>
     <labels>
         <fullName>DisplayViewLabel</fullName>
@@ -113,13 +127,6 @@
         <protected>false</protected>
         <shortDescription>KeyReportHomeLink</shortDescription>
         <value>https://louisville-tile--uat.lightning.force.com/</value>
-    </labels>
-    <labels>
-        <fullName>Key_Report_Type</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Key Report Type</shortDescription>
-        <value>Key Report Type</value>
     </labels>
     <labels>
         <fullName>Most_Recent_Years_Tax_Returns</fullName>
@@ -165,7 +172,7 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Opportunity Split Type Revenue Id</shortDescription>
-        <value>1494X000000blJOQAY</value>
+        <value>14901000000001iAAA</value>
     </labels>
     <labels>
         <fullName>Other_Document</fullName>
@@ -179,21 +186,21 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Preferred Vendor RPF link</shortDescription>
-        <value>https://louisville-tile--dev3.sandbox.my.site.com/PreferredVendor/s/preferred-vendor-rfp</value>
+        <value>https://uat-louisville-tile.cs194.force.com/PreferredVendor/s/preferred-vendor-rfp</value>
     </labels>
     <labels>
         <fullName>Register_Job_Cc_email</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Register Job Cc email</shortDescription>
-        <value>rajneesh@samiteon.com</value>
+        <value>rajneesh.jadon@nubystech.com</value>
     </labels>
     <labels>
         <fullName>Register_Job_Email</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Register Job Email</shortDescription>
-        <value>tnua@louisville-tile.com</value>
+        <value>Soniya.pal@nubystech.com</value>
     </labels>
     <labels>
         <fullName>Report_for_Home</fullName>
@@ -215,7 +222,7 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Sample Request Form URL</shortDescription>
-        <value>https://louisville-tile.force.com/form/s/internal-form</value>
+        <value>https://uat-louisville-tile.cs194.force.com/form/s/internal-form</value>
     </labels>
     <labels>
         <fullName>SearchBlockTitle</fullName>
@@ -307,7 +314,21 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>creditApplicatiobFromEmail</shortDescription>
-        <value>0D24X000000L14a</value>
+        <value>0D2010000004Elf</value>
+    </labels>
+    <labels>
+        <fullName>greeting</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>greeting</shortDescription>
+        <value>Aloha!</value>
+    </labels>
+    <labels>
+        <fullName>new_preferred_vendor_RFP_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>new preferred vendor RFP Link</shortDescription>
+        <value>https://uat-louisville-tile.cs194.force.com/AncillaryVendorRFP/s/ancillary-vendor-rfps</value>
     </labels>
     <labels>
         <fullName>priceBook_for_selection_sheet</fullName>

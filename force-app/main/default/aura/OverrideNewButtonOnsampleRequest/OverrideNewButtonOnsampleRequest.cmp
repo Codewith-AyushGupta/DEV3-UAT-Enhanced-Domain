@@ -18,7 +18,7 @@
                     </header>
                     <!--Modal/Popup Box Body Starts here-->
                     <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
-    <a href="https://louisville-tile--dev3.sandbox.my.site.com/form/s/internal-form" target="_blank">Sample Request Form</a>
+    <a href="https://uat-louisville-tile.cs194.force.com/form/s/internal-form" target="_blank">Sample Request Form</a>
                     </div>
                     <!--Modal/Popup Box Footer Starts here-->
                     <footer class="slds-modal__footer">
